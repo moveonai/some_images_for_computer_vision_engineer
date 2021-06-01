@@ -4,6 +4,7 @@ Some Major Information Images About Computer Vision and Photography
 
 Camera & Lens
 ![](https://github.com/moveonai/some_images_for_computer_vision_engineer/blob/master/camera_lens.jpg)
+![](https://raw.githubusercontent.com/moveonai/some_images_for_computer_vision_engineer/main/camera_lens.jpg)
 
 Image Circle and Camera Sensor Diagonal / Vignetting
 ![](https://github.com/moveonai/some_images_for_computer_vision_engineer/blob/master/image_circle_and_sensor_diagonal.jpg)
